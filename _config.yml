@@ -8,5 +8,5 @@ permalink: ':title:output_ext' # how the permalinks will behave
 
 # Author settings
 author: Myc # add your name
-author-pic: 'https://github.com/leatherking/myc/edit/gh-pages/assets/myc.jpg' # a picture of you
+author-pic: '/assets/myc.jpg' # a picture of you
 about-author: '' # a brief description of you
