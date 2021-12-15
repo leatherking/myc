@@ -1,6 +1,12 @@
 theme: jekyll-theme-minimal
 
 # Site settings
-title: The Title for Your Website
-description: 'A description of your blog'
+title: "Myc's HOME"
+description: 'Share my life and work'
 permalink: ':title:output_ext' # how the permalinks will behave
+
+
+# Author settings
+author: Myc # add your name
+author-pic: '' # a picture of you
+about-author: '' # a brief description of you
