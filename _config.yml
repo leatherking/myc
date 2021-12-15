@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+
+# Site settings
+title: The Title for Your Website
+description: 'A description of your blog'
+permalink: ':title:output_ext' # how the permalinks will behave
