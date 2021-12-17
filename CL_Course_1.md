@@ -6,7 +6,7 @@
     
     Mostly due to Gradient Descent
     
-    ![CL Definition](assets/CL_1.pngCL_1.png?raw=true)
+    ![CL Definition](assets/CL_1.png?raw=true)
 
 - History & Nomenclature & Related Paradigms
   
@@ -31,6 +31,6 @@
         - Continual Learning *(Ring 1998)*
         - Lifelong Learning *(thrun 1998)*
         - Never-Ending Learning *(Mitchell 2009)*
-            ![NELL](/assets/CL_2.pngCL_2.png?raw=true "a Key Milestone")
+            ![NELL](/assets/CL_2.png?raw=true "a Key Milestone")
         - Deep Continual Learning *(Kirkpatrick 2016)*
         - Lifelong (Language) Learning *(Liu 2018)*
