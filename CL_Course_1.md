@@ -6,7 +6,7 @@
     
     Mostly due to Gradient Descent
     
-    ![CL Definition](/assets/CL_1.pngCL_1.png?raw=true)
+    ![CL Definition](/assets/CL_1.pngCL_1.png)
 
 - History & Nomenclature & Related Paradigms
   
