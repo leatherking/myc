@@ -3,9 +3,38 @@ theme: jekyll-theme-minimal
 # Site settings
 title: "Myc's HOME"
 description: 'Share my life and work'
-
+permalink: #':title:output_ext' # how the permalinks will behave
+baseurl: #"/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "" # the logo for your site
+logo-icon: "" # a smaller logo, typically squared
+logo-icon-SEO: "" # must be a non SVG file, could be the same as the logo-icon
 
 # Author settings
 author: Myc # add your name
-author-pic: myc.jpg # a picture of you
-about-author: '' # a brief description of you
+author-pic: './assets/myc.jpg' # a picture of you
+about-author: #'' # a brief description of you
+
+# Contact links
+email: #your@email.com # Add your Email address
+phone: # Add your Phone number
+website:  # Add your website
+linkedin:  # Add your Linkedin handle
+github:  # Add your Github handle
+twitter:  # Add your Twitter handle
+bandcamp:  # Add your Bandcamp username
+
+# Night/Dark mode default mode is "auto", "auto" is for auto nightshift (19:00 - 07:00), "manual" is for manual toggle, and "on/off" is for default on/off. Whatever the user's choice is, it will supersede the default setting of the site and be kept during the visit (session). Only the dark mode setting is "manual", it will be always kept on every visit (i.e. no matter the browser is closed or not)
+night_mode: #"auto"
+logo-dark: #"/assets/img/branding/MVM-logo-full-dark.svg" #if you want to display a different logo when in dark mode
+highlight_theme: #syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
+
+
+# Tracker
+analytics: # Google Analytics tag ID
+fbadmin: # Facebook ID admin
+
+# Paginate
+paginate: #6 # number of items to show in the main page
+paginate_path: #'page:num'
+words_per_minute: 200 # default words per minute to be considered when calculating the read time of the blog posts
