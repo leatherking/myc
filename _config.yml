@@ -3,7 +3,6 @@ theme: jekyll-theme-minimal
 # Site settings
 title: "Myc's HOME"
 description: 'Share my life and work'
-permalink: ':title:output_ext' # how the permalinks will behave
 
 
 # Author settings
