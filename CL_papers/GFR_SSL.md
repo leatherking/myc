@@ -1,5 +1,5 @@
-# Generative Feature Replay with Orthogonal Weight Modification for Continual
-Learning
+# Generative Feature Replay with Orthogonal Weight Modification for Continual Learning
+
 
 ## Abstract
 1. 生成器的持续学习在复杂数据集上不好训
