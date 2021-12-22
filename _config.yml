@@ -5,10 +5,10 @@ title: "Myc's HOME"
 description: 'Share my life and work'
 permalink: #':title:output_ext' # how the permalinks will behave
 baseurl: #"/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "" # the logo for your site
-logo-icon: "" # a smaller logo, typically squared
-logo-icon-SEO: "" # must be a non SVG file, could be the same as the logo-icon
+url: #"" # the base hostname & protocol for your site, e.g. http://example.com
+logo: #"" # the logo for your site
+logo-icon: #"" # a smaller logo, typically squared
+logo-icon-SEO: #"" # must be a non SVG file, could be the same as the logo-icon
 
 # Author settings
 author: Myc # add your name
@@ -37,4 +37,4 @@ fbadmin: # Facebook ID admin
 # Paginate
 paginate: #6 # number of items to show in the main page
 paginate_path: #'page:num'
-words_per_minute: 200 # default words per minute to be considered when calculating the read time of the blog posts
+words_per_minute: #200 # default words per minute to be considered when calculating the read time of the blog posts
