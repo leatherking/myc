@@ -6,6 +6,13 @@
 3. 提出生成特征重放解决imbalance问题，不需要exemplar。将生成特征重放和分类器合在一起，使用特征级蒸馏
 4. 在CIFAR-100和ImageNet上实验，空间占用少
 
+## Intro & Related
+1. 三类方法：正则化方法，限制可塑性；动态网络，结合任务独立的mask；记忆重放，rehearsal & pseudo-rehearsal
+2. **在ZSL和FSL中，生成特征的方法达到了很好的效果，可以关注一下这方面的论文。**
+
+## 遗忘分析（CCA）
+1. [典型相关分析（CCA）](https://zhuanlan.zhihu.com/p/52110862)
+2. 
 
 ## Conclusion
 1. 生成特征重放与特征蒸馏结合
