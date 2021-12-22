@@ -12,7 +12,7 @@ logo-icon-SEO: #"" # must be a non SVG file, could be the same as the logo-icon
 
 # Author settings
 author: Myc # add your name
-author-pic: './assets/myc.jpg' # a picture of you
+author-pic: ./assets/myc.jpg # a picture of you
 about-author: #'' # a brief description of you
 
 # Contact links
