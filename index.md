@@ -10,3 +10,5 @@ This is Myc's homepage. I wanna share some pieces of life and work here. ^_^
 ## [Generative Feature Replay with Orthogonal Weight Modification for Continual Learning](./CL_papers/GFR_SSL.md)
 
 ## [Continual Learning by Using Information of Each Class Holistically](./CL_papers/PCL.md)
+
+## [Co2L: Contrastive Continual Learning](./CL_Papers/Co2L.md)

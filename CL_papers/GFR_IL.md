@@ -23,7 +23,6 @@
     
     - Feature distill：$F_{t-1}$和$F_t$之间的MSE有效减少遗忘
 
-    - 
 
 ## Method
 1. ![method](GFR-IL_figure1.png?raw=true "feature replay")
